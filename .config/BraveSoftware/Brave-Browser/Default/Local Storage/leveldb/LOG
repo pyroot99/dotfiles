@@ -1,0 +1,6 @@
+2020/12/10-10:38:55.219 183b Reusing MANIFEST /home/pyroot/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2020/12/10-10:38:55.219 183b Recovering log #29
+2020/12/10-10:38:55.220 183b Reusing old log /home/pyroot/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000029.log 
+2020/12/10-10:40:23.601 1833 Level-0 table #33: started
+2020/12/10-10:40:23.603 1833 Level-0 table #33: 15649 bytes OK
+2020/12/10-10:40:23.604 1833 Delete type=0 #29

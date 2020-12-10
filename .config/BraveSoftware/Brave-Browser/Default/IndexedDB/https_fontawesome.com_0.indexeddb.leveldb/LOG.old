@@ -1,0 +1,7 @@
+2020/11/28-22:06:18.042 268a Reusing MANIFEST /home/pyroot/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/28-22:06:18.042 268a Recovering log #3
+2020/11/28-22:06:18.043 268a Reusing old log /home/pyroot/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb/000003.log 
+2020/11/28-22:06:56.403 266e Level-0 table #5: started
+2020/11/28-22:06:56.405 266e Level-0 table #5: 28410 bytes OK
+2020/11/28-22:06:56.406 266e Delete type=0 #3
+2020/11/28-22:06:56.406 266e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

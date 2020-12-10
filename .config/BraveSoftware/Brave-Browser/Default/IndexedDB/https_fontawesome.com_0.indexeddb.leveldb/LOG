@@ -1,0 +1,15 @@
+2020/12/03-09:45:25.611 28d2 Reusing MANIFEST /home/pyroot/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/03-09:45:25.611 28d2 Recovering log #4
+2020/12/03-09:45:25.611 28d2 Reusing old log /home/pyroot/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb/000004.log 
+2020/12/03-09:50:33.897 301b Level-0 table #8: started
+2020/12/03-09:50:33.898 301b Level-0 table #8: 2664 bytes OK
+2020/12/03-09:50:33.899 301b Delete type=0 #4
+2020/12/03-09:50:33.899 301b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/03-09:50:33.899 301b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x05\x00s\x00t\x00a\x00t\x00e' @ 1927 : 1
+2020/12/03-09:50:33.899 301b Compacting 1@1 + 1@2 files
+2020/12/03-09:50:33.900 301b Generated table #9@1: 52 keys, 1163 bytes
+2020/12/03-09:50:33.901 301b Compacted 1@1 + 1@2 files => 1163 bytes
+2020/12/03-09:50:33.901 301b compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/03-09:50:33.901 301b Delete type=2 #8
+2020/12/03-09:50:33.901 301b Delete type=2 #5
+2020/12/03-09:50:33.901 301b Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x05\x00s\x00t\x00a\x00t\x00e' @ 1927 : 1 .. (end); will stop at (end)
